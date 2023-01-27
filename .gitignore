@@ -1,0 +1,9 @@
+/.idea/
+/pycache/
+/input/
+/models/
+/logs/
+/output/
+/demo/
+*.sh
+*.ipynb
